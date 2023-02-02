@@ -1,0 +1,25 @@
+{
+  "name": "json-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adil-khan-007/json-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adil-khan-007/json-deploy/issues"
+  },
+  "homepage": "https://github.com/Adil-khan-007/json-deploy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json-server": "^0.17.1"
+  }
+}
